@@ -1,0 +1,25 @@
+echidna:
+- tasklist
+- certs
+- wifi info
+- power info
+- device name info
+- fingerprint
+- time
+- screen size
+- brightness
+- screen count
+- network info
+- drivers
+- hardware info
+- memory info
+- audio
+- recent apps
+- wifi
+- fonts
+- wallpaper
+- open windows
+- language
+
+panel:
+- ui to recontruct desktop
